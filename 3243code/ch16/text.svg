@@ -1,9 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="12cm" height="4cm" viewBox="0 0 1200 400"
-     xmlns="http://www.w3.org/2000/svg">
-  <text x="600" y="250" text-anchor="middle" font-size="150" fill="black">
-    Learning 
-    <tspan stroke-width="5" font-weight="bold" fill="red" 
-           stroke="black" stroke-linejoin="round">SVG</tspan>
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="12cm" height="4cm" viewBox="0 0 1200 400"><text x="600" y="250" fill="#000" font-size="150" text-anchor="middle">Learning <tspan fill="red" stroke="#000" stroke-linejoin="round" stroke-width="5" font-weight="bold">SVG</tspan></text></svg>

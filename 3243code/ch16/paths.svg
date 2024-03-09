@@ -1,9 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="12cm" height="4cm" viewBox="0 0 1200 400"
-     xmlns="http://www.w3.org/2000/svg">
-  <path d="M 600,50  l 200,300 h -400 Z
-           M 600,150 L 700,300 H 500 Z"
-        fill="red" fill-rule="evenodd"
-        stroke="black" stroke-width="25" 
-        stroke-linecap="round" stroke-linejoin="round" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="12cm" height="4cm" viewBox="0 0 1200 400"><path fill="red" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="25" d="M 600,50 l 200,300 h -400 Z M 600,150 L 700,300 H 500 Z"/></svg>
